@@ -1,3 +1,4 @@
-Title : Aerospace Reimagined: AI and Genetic Algorithms for Next-Generation Structural Optimization
+Title : Next Gen Aircraft Weight Analysis and Optimization
 
-AI-optimized design integrates artificial intelligence to transcend traditional engineering and design limitations, blending creativity with computational power to uncover innovative solutions. This project specifically targets the optimization of aircraft and spacecraft structural components to elevate performance metrics—reducing weight, enhancing fuel efficiency, and boosting payload capacity, without compromising on safety or structural integrity. Such optimization confronts the aerospace industry's critical challenge: creating structures resilient under harsh conditions yet lightweight and efficient. 
+
+AI-optimized design integrates artificial intelligence to transcend traditional engineering and design limitations, blending creativity with computational power to uncover innovative solutions. This project specifically targets the optimization of aircraft structural parameters, specifically aircraft weight. Such optimization confronts the aerospace industry's critical challenge: creating structures resilient under harsh conditions yet lightweight and efficient. 
